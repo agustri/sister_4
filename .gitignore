@@ -76,3 +76,5 @@ coverage.xml
 docs/_build/
 
 
+/JavaEcho/nbproject/private/private.properties
+/JavaEcho/nbproject/private/private.xml
