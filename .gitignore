@@ -1,6 +1,7 @@
 .netbeans_*
 genfiles.properties
 private.properties
+orb.db
 
 *.class
 
