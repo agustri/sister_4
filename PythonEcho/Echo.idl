@@ -1,0 +1,10 @@
+module EchoApp
+{
+  interface Echo
+  {
+    // This line is an operation statement.
+    string doEcho(in string str);
+	// This line is another
+    oneway void shutdown();
+  };
+};

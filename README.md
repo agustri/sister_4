@@ -8,6 +8,9 @@ JavaEcho
 2. Run `EchoServer.java`
 3. Run `EchoClient.java`
 
+PythonEcho
+==========
+`python Client_try.py -ORBDefauldInitRef corbaloc::localhost:1050`
 
 Note
 ====
