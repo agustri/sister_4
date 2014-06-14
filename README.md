@@ -11,4 +11,5 @@ JavaEcho
 
 Note
 ====
-orbd sebagai naming service berjalan pada localhost post 1050
+- orbd sebagai naming service berjalan pada localhost port 1050
+- pastikan folder instalasi jdk pada path

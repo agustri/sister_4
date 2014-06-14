@@ -11,7 +11,7 @@ class EchoImpl extends EchoPOA {
     }
 
     @Override
-    public String echo(String str) {
+    public String doEcho(String str) {
         return str;
     }
 

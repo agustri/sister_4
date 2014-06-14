@@ -24,7 +24,7 @@ public class EchoClient {
             System.out.println("handle object pada :" + echoImpl);
             System.out.println("Masukkan input :");
             String input = scanner.nextLine();
-            System.out.println(echoImpl.echo(input));
+            System.out.println(echoImpl.doEcho(input));
         } catch (Exception e) {
             System.err.println("ERROR :" + e);
             e.printStackTrace(System.out);
